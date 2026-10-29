@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ###### 🔭 I’m currently working in a product based comapny called Comcast
-###### 🌱 I’m currently learning AI/ML
+###### 🌱  working on Voice AI
 ###### 👯 I’m looking to collaborate on any projects in web || mobile || blockchain || ml
 
 
